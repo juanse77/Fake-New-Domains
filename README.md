@@ -6,5 +6,3 @@ The project consists of three input files to generate one output file. The main 
 For the script to work correctly, the latest 'domain-names.txt' file must be downloaded every day, which can be downloaded from the website https://www.whoisds.com/newly-registered-domains.
 
 For it to work, run the 'check-new-domains.bat' file from the same folder as the 'input.txt' and 'domain-names.txt' files.
-
-If this script has been useful to you, don't forget to reward the repository with a star. :D
