@@ -123,3 +123,8 @@ apple.
 -apple
 google
 office365
+mediapro
+mediaset
+rtve
+amazon
+temu
