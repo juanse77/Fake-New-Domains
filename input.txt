@@ -134,3 +134,4 @@ tinder
 badoo
 github
 meetic
+tripadvisor
