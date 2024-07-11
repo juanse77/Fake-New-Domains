@@ -129,3 +129,8 @@ rtve
 amazon
 temu
 aliexpress
+bizum
+tinder
+badoo
+github
+meetic
