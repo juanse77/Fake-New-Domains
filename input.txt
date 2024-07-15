@@ -135,3 +135,7 @@ badoo
 github
 meetic
 tripadvisor
+digi.
+-digi
+digi-
+simyo
