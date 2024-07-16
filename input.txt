@@ -139,3 +139,6 @@ digi.
 -digi
 digi-
 simyo
+android
+soporte
+support
