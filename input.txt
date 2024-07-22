@@ -174,3 +174,7 @@ sharp
 philips
 bosch
 siemens
+crowdstrike
+crowd-strike
+crowd
+strike
