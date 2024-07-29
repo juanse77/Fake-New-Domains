@@ -148,7 +148,7 @@ litecoin
 ripple
 dogecoin
 tesla
-gm
+generalmotors
 ford
 toyota
 honda
@@ -167,7 +167,8 @@ nissan
 mitsubishi
 hitachi
 panasonic
-lg
+lg.
+-lg
 sony
 toshiba
 sharp
@@ -198,3 +199,4 @@ carbonblack
 comodo
 fortinet
 gdata-software
+meta
