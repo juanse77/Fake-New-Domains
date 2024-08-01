@@ -180,7 +180,7 @@ crowd-strike
 crowd
 strike
 broadcom
-sep.securitycloud.symantec
+symantec
 mcafee
 bitdefender
 kaspersky
